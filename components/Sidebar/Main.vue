@@ -2,7 +2,7 @@
     <div class="flex">
       <div id="sidebar" class="w-64 text-white min-h-screen">
         <div class="p-4">
-          <h1 class="text-2xl font-semibold">My Sidebar</h1>
+          <h1 class="text-2xl font-semibold">Sidebar</h1>
         </div>
         <ul>
           <li class="hover:bg-gray-700">
@@ -26,14 +26,14 @@
     </div>
   </template>
   
-  <script>
+<script>
   export default {
     name: 'default-layout'
   }
-  </script>
+</script>
   
-  <style scoped>
+<style scoped>
     #sidebar {
         background-color: #333;
     }
-  </style>
+</style>
