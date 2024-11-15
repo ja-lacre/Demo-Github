@@ -1,6 +1,6 @@
 <template>
     <div class="flex">
-      <div class="w-64 bg-gray-800 text-white min-h-screen">
+      <div id="sidebar" class="w-64 text-white min-h-screen">
         <div class="p-4">
           <h1 class="text-2xl font-semibold">My Sidebar</h1>
         </div>
@@ -33,4 +33,7 @@
   </script>
   
   <style scoped>
+    #sidebar {
+        background-color: #333;
+    }
   </style>
