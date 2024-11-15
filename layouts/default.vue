@@ -6,9 +6,7 @@
       <slot />
     </div>
   </div>
-  <Footermain />
+  <FooterMain/>
 </template>
 
-<script lang="ts" setup>
-  import Footermain from './components/Footer/Footermain.vue';
-</script>
+<script lang="ts" setup></script>

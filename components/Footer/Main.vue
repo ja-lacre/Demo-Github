@@ -6,7 +6,7 @@
       <!-- Footer Brand or Copyright -->
       <div>
         <p style="margin: 0; font-size: 16px; font-weight: bold;">
-          &copy; {{ currentYear }} Demo Website
+          &copy; {{ currentYear }} Demo Website Footer
         </p>
       </div>
 
